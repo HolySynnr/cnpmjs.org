@@ -114,6 +114,7 @@ Tips: make sure your code is following the [node-style-guide](https://github.com
 
 ## Sponsors
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/be4dfa38fcb14f64b3da770c1384a928)](https://www.codacy.com/app/HolySynnr/cnpmjs-org?utm_source=github.com&utm_medium=referral&utm_content=HolySynnr/cnpmjs.org&utm_campaign=badger)
 - [![阿里云](https://static.aliyun.com/images/www-summerwind/logo.gif)](http://click.aliyun.com/m/4288/) (2016.2 - now)
 - [![UCloud云计算](https://www.ucloud.cn/static/style/images/about/logo.png)](http://www.ucloud.cn?sem=sdk-CNPMJS) (2015.3 - 2016.3)
 
